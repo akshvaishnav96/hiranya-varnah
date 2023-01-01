@@ -1,0 +1,1224 @@
+@media screen and (max-width:1285px) {
+    .fimg {
+        top: -64%;
+    }
+}
+
+@media screen and (max-width:1199px) {
+   
+
+.main-4 {
+    height: 115rem;
+}
+
+.fimg {
+    top: -61%;
+}
+}
+
+
+@media screen and (max-width:1184px){
+    .imgdv img{
+        height: 12rem;
+        width: 12rem;
+    }
+.linedv {
+    height: 11rem;
+        width: 11rem;
+}
+
+@media screen and (max-width:1151px){
+    .main-11text p {
+        line-height: 18px;
+    }
+
+    .main-11text {
+        margin: 5% 2%;
+    }
+
+    .fimg {
+        top: -60%;
+    }
+    
+    
+}
+
+@media screen and (max-width:1084px){
+    .linedv {
+        top: 7%;
+    }
+    .fimg {
+        top: -56%;
+    }
+     
+}
+
+
+@media screen and (max-width:991px){
+
+
+
+    .main-2 {
+        top: -10px;
+    }
+
+    .headcont h1 {
+        font-size: 29px;
+    }
+
+    .headcont h4{
+        font-size: 26px;
+    }
+
+    .headcont p {
+        font-size: 13px;
+        color: white;
+    }
+
+    
+.main-2f1 p {
+    font-size: 10px;
+}
+
+.main-2f2 h1{
+        font-size: 25px;
+        margin-bottom: 2px;
+}
+
+.main-2f2 p {
+    font-size: 11px;
+}
+
+.main-2 {
+    height: 21rem;
+}
+
+.orgchr {
+    width: 45%;
+}
+
+.ak{
+    height: 30rem;
+}
+
+.orgchr {
+    bottom: -9%;
+}
+.imgc img{
+    height: 16rem;
+}
+
+.cbd{
+    height: 400px;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.lampimg {
+    top: -60px;
+    height: 8rem;
+    left: 16%;
+}
+
+
+.main-4gp1 {
+    top: -10rem;
+}
+
+.main-4text h1{
+        font-size: 25px;
+}
+
+.main-4text p{
+    font-size: 11px;
+}
+
+.main-4text h4{
+    font-size: 20px;
+}
+
+
+
+.main-4gp2 {
+    top: -13rem;
+}
+
+.main-4gp3 {
+    top: -15rem;
+}
+
+.main-4gp4 {
+    top: -15rem;
+}
+
+.main-4text button {
+    margin: 4px 0px;
+}
+
+.main-4text p {
+    MARGIN: 4PX;
+}
+
+.main-4text button {
+    padding: 6px 15px;
+}
+
+.main-4 {
+    height: 86rem;
+}
+
+.main-5{
+    height: 25rem;
+}
+
+.wtsf {
+    position: relative;
+    top: -90px;
+}
+
+.main-6 {
+    height: 74rem;
+}
+
+.main-7text{
+    top: 45%;
+
+}
+
+.main-7 {
+    top: -30rem;
+}
+
+.main-7text h1{
+        font-size: 25px;
+}
+
+.main-7text h5{
+    font-size: 17px;
+    margin: 6px 0px;
+}
+
+.main-7text p{
+    font-size: 10px;
+}
+
+.fimg {
+    top: -50%;
+}
+
+.main-8 {
+    top: -12rem;
+}
+
+.main-8imgdv p {
+    font-size: 12px;
+}
+
+.main-8imgdv img {
+    height: 3.5rem;
+}
+
+.main-8imgdv h3 {
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+
+.main-9sl{
+    top: -6rem;
+}
+
+.main-11text h4{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.main-11text p{
+    font-size: 13px;
+}
+.linedv {
+    top: 7.7%;
+}
+
+.main-9text {
+    top: 45%;
+    left: 23%;
+}
+
+}
+
+
+@media screen and (max-width:925px){
+
+    .headcont h1 {
+        font-size: 24px;
+        margin-bottom: 20px !important;
+    }
+
+    .headcont h4 {
+        font-size: 22px;
+    }
+
+    .headcont p {
+        font-size: 10px;
+        color: white;
+    }
+
+    .navbar-brand img {
+        width: 55;
+        height: 40px;
+        width: 50px;
+    }
+
+    .c2 i {
+        font-size: 15px;
+    }
+
+    .navbar .container {
+        right: -9%;
+    }
+   
+
+    .ak {
+        height: 26rem;
+    }
+
+    .main-4 {
+        height: 62rem;
+    }
+
+    .imgc img {
+        height: 12rem;
+    }
+
+    .main-2imgcont span {
+        top: 13%;
+        font-size: 8px;
+    }
+
+
+
+    .imgc {
+        width: 30%;
+        margin: 20px;
+        height: 14rem;
+    }
+
+    .carousel-item {
+        height: 300px;
+    }
+
+    .main-4 {
+        height: 68rem;
+    }
+
+    .main-2text {
+        margin: 4rem auto;
+    }
+
+    .main-4gp1 {
+        top: -7rem;
+    }
+
+    .main-4text button {
+        padding: 3px 9px;
+        font-size: 12px;
+    }
+
+    .main-4gp2 {
+        top: -10rem;
+    }
+
+    .main-4gp3 {
+        top: -12rem;
+    }
+
+    .main-4gp4 {
+        top: -12rem;
+    }
+
+    .main-4cont img {
+        width: 50%;
+        height: 18rem;
+    }
+
+    .main-6 button {
+    padding: 5px 15px;
+}
+
+.main-7 {
+    top: 4rem;
+}
+
+.main-8 {
+    top: 14rem;
+}
+
+.fimg {
+    top: -48%;
+}
+
+.main-7text {
+    top: 20%;
+}
+
+
+
+
+
+    .linedv {
+        height: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .imgdv img {
+        height: 8rem;
+        width: 8rem;
+    }
+
+    .main-6imagesdv h4 {
+        margin-top: 9px;
+        font-size: 14px;
+    }
+
+    .main-6imagesdv p {
+        font-size: 10px;
+    }
+   
+  
+    .main-9sl {
+        top: -13rem;
+    }
+
+    .main-6 {
+        height: 30rem;
+    }
+
+    .linedv {
+        top: 18%;
+        margin-left: 24px;
+    }
+    .main-9sl{
+        top: 18rem;
+    }
+
+    .main-10 {
+        top: 16rem;
+    }
+
+    .main-10text h1{
+        font-size: 30px;
+
+    }
+
+    .main-10text p{
+        font-size: 10px;
+    }
+
+    .main-11text h4 {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .main-11text p {
+        font-size: 11px;
+    }
+
+    .icons {
+        padding: 15px;
+        margin-right: 20px;
+    }
+
+    .main-11 {
+        top: 21rem;
+    }
+
+    footer{
+        top: 21rem;
+    }
+}
+
+@media screen and (max-width:744px) {
+    
+      
+
+    
+    .ak {
+        height: 23rem;
+    }
+
+
+    
+
+    .bluediv img {
+        height: 110px;
+    }
+
+    .navbar .container {
+        right: -13%;
+    }
+
+    .slbtn1{
+        margin-left: 120px;
+    }
+
+    .main-2text {
+        margin: 2rem auto;
+    }
+
+    .lampimg {
+        top: -18px;
+            height: 5rem;
+        }
+
+        .main-4gp1 {
+            top: -4rem;
+            padding: 0%;
+        }
+
+        .main-4gp2 {
+            top: -7rem;
+            padding: 0%;
+
+        }
+
+        .main-4gp3 {
+            top: -9rem;
+            padding: 0%;
+
+        }
+
+        .main-4gp4 {
+            top: -9rem;
+            padding: 0%;
+
+        }
+
+        .main-7text {
+            top: 10%;
+        }
+
+        .main-8imgdv{
+            width: 25%;
+            margin: 0;
+        }
+
+    .headcont h4 {
+        font-size: 18px;
+    }
+
+    
+
+    .headcont {
+        top: 9rem;
+        left: 7rem;
+    }
+
+    .headcont h1 {
+        letter-spacing: 5px;
+        font-size: 25px;
+    }
+
+    .linedv{
+            top: 17%;
+    }
+
+    .main-10 img {
+        height: 40%;
+        width: 22%;
+        position: absolute;
+        right: 8%;
+        bottom: -28%;
+        z-index: 1;
+    }
+
+    .main-11text {
+        margin: 5% 0px;
+        padding: 0px 10px;
+    }
+
+
+    .main-11 {
+        padding: 10px;
+    }
+
+    .main-11text {
+            width: 25%;
+    }
+
+    .linedv {
+        height: 5.5rem;
+        width: 5.5rem;
+    }
+
+    .imgdv img {
+        height: 6rem;
+        width: 6rem;
+        margin-top: 8px 5px;
+    }
+
+    .icons {
+        padding: 12px;
+        margin-right: 10px;
+    }
+
+    .opact0 {
+        height: 15rem;
+    }
+
+    .main-9text {
+        top: 35%;
+    }
+
+    .pimg {
+        height: 4rem;
+        width: 4rem;
+    }
+
+    .main-9text p {
+        text-align: center;
+        color: whitesmoke;
+        font-size: 10px;
+    }
+
+    .main-9spn {
+        display: block;
+        text-align: center;
+        color: whitesmoke;
+        font-size: 14px;
+    }
+
+    .yl {
+        color: #febb59 !important;
+        font-size: 16px;
+        margin-bottom: 2px;
+    }
+
+    .main-11{
+        height: 15rem;
+    }
+
+    .main-11text p {
+        margin-bottom: 5px;
+    }
+
+    .main-4text h1 {
+        font-size: 20px;
+    }
+
+    .main-4text h4 {
+        font-size: 18px;
+    }
+
+    footer{
+        height: 2rem;
+        font-size: 10px;
+    }
+    .fimg {
+        top: -39% !important;
+    }
+
+    .main-5 h1{
+        font-size: 28px;
+    }
+
+    .main-5 p{
+            font-size: 12px;
+    }
+
+    .main-5 button{
+        padding: 3px 9px;
+        font-size: 8px;
+    }
+
+    .main-5 i{
+        font-size: 6px;
+    }
+}
+
+@media screen and (max-width:664px) {
+
+
+
+    .fimg {
+        top: -35% !important;
+    }
+    .btn-dark{
+        padding: 0 5px;
+        bottom: 20%;
+    }
+    .navbar .container {
+        right: -16%;
+    }
+
+    .navbar .c1 {
+        margin-left: 0;
+    }
+
+    .navbar-brand img {
+        height: 30px;
+        width: 40px;
+    }
+
+    .navbar-brand h5 {
+        font-size: 14px;
+        margin-bottom: 1px;
+    }
+
+    .navbar-brand span {
+        font-size: 4px;
+        letter-spacing: 1px;
+    }
+
+    .slbtn1 {
+        margin-left: 70px;
+    }
+
+    .carousel-indicators button {
+        height: 6px !important;
+        width: 6px !important;
+    }
+
+    .headcont {
+        top: 9rem;
+        left: 11%;
+    }
+
+    .headcont h1 {
+        letter-spacing: 3px;
+        margin-bottom: 10px !important;
+    }
+
+    .headcont h4 {
+        font-size: 16px;
+    }
+
+    .headcont p {
+        font-size: 9px;
+        color: white;
+    }
+
+    .ak {
+        height: 19rem;
+    }
+
+    .main-2 {
+        height: 16rem;
+    }
+
+    .main-2imgcont{
+     padding: 0;   
+    }
+
+    .main-2f1 p {
+        font-size: 5px;
+    }
+
+    .main-2f2 h1 {
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+
+    .main-2f2 p {
+        font-size: 8px;
+    }
+
+    .main-2 {
+        height: 12rem;
+    }
+
+    .main-2 {
+        height: 12rem;
+    }
+
+    .main-2text {
+        margin: 0;
+        margin-top: 1rem ;
+    }
+
+    .main-3 {
+        padding: 0;
+        position: relative;
+        top: 0rem;
+        height: 25rem;
+    }
+
+    .main-6 h1{
+            font-size: 20px;
+    }
+
+    .main-6 h5{
+            font-size: 16px;
+    }
+
+    .main-6 {
+        height: 24rem;
+    }
+
+    .main-6 button {
+        margin: 12px auto;
+        padding: 3px 9px;
+        font-size: 10px;
+    }
+
+    .main-6 i {
+        font-size: 7px;
+        color: grey;
+    }
+
+    .main-4text button {
+        padding: 3px 9px;
+        font-size: 8px;
+    }
+
+    .main-4text i {
+        font-size: 6px;
+        color: black;
+    }
+
+    .imgc img {
+        height: 8rem;
+    }
+
+    .imgc {
+        margin: 15px;
+    }
+    .main-2text h1{
+        font-size: 16px;
+    }
+
+    .cbd {
+        height: 200px;
+    }
+
+    .main-4text h1 {
+        font-size: 15px;
+        margin: 2px 0;
+    }
+
+    .main-4text p {
+        font-size: 8px;
+    }
+    
+    .main-4text h4 {
+        font-size: 12px;
+    }
+
+    .main-2text p{
+        font-size: 10px;
+    }
+
+    .main-4cont img {
+        width: 50%;
+        height: 18rem;
+    }
+
+    .imgdv img {
+        height: 4rem;
+        width: 4rem;
+        margin-top: 8px 5px;
+    }
+
+    .linedv{
+            margin: 0;
+            margin-left: 24px;
+            margin-top: 15%;
+    }
+    .imgdv img {
+        margin: 0;
+        margin-left: 20px;
+        margin-top: 74%;
+    }
+
+    .main-6imagesdv p {
+        font-size: 6px;
+    }
+
+    .linedv {
+        height: 3.7rem;
+        width: 3.7rem;
+    }
+
+    .main-6 {
+        height: 17rem;
+    }
+
+    .linedv {
+        margin: 0;
+        margin-left: 22px;
+        margin-top: 17.4%;
+    }
+
+    .main-6imagesdv h4 {
+        margin-top: 9px;
+        font-size: 9px;
+    }
+
+    .main-7text h1 {
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+
+    .main-7text h5 {
+        font-size: 10px;
+    }
+
+    .main-7text p{
+        font-size: 5px;
+    }
+
+    .main-8imgdv img {
+        height: 2rem;
+    }
+
+    .main-8imgdv h3 {
+        margin-bottom: 5px;
+        font-size: 10px;
+    }
+
+    .main-8imgdv p {
+        font-size: 5px;
+    }
+
+    .main-8imgdv img {
+        margin: 5px auto;
+    }
+
+    .main-8 {
+        top: 8rem;
+    }
+
+    .main-9sl {
+        top: 8rem;
+    }
+
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        width: 2rem;
+        height: 2rem;
+       
+        margin-top: 80% !important;
+    }
+
+    .pimg{
+        left:45%;
+        height: 3rem ;
+        width: 3rem;
+    }
+
+    .main-9text {
+        top: 28%;
+        left: 21%;
+    }
+
+    .yl{
+        font-size: 12px;
+    }
+
+    .main-9text span{
+        font-size: 10px;
+    }
+
+    .main-10 {
+        top: 5rem;
+    }
+
+    .main-10text h1 {
+        font-size: 18px;
+    }
+    .main-10text p {
+        font-size: 6px;
+    }
+
+    .mb-3 {
+        margin-top: 16px;
+    }
+
+    .main-9text p{
+        font-size: 7px;
+    }
+
+    .form-control {
+        width: 95%;
+
+
+    }
+
+    .form-control input{
+        font-size: 12px;
+    }
+    .opact0 {
+        height: 10rem;
+    }
+
+    #exampleInputEmail1::placeholder{
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .form-text {
+        font-size: 6px;
+    }
+
+    .main-10 button {
+        padding: 3px 9px;
+        font-size: 12px;
+        margin: 15px 0px;
+    }
+
+    .main-11 {
+        top: 9rem;
+    }
+
+    .main-11text h4 {
+        font-size: 8px;
+        margin:2px 1px;
+    }
+
+    .main-11text p {
+        font-size:6px;
+        margin:1px 1px;
+    }
+
+    .main-11text p {
+        line-height: 10px;
+    }
+
+    .main-11 {
+        height: 8rem;
+    }
+
+    .icons{
+        font-size: 8px !important;
+        padding: 6px;
+        margin-right: 6px;
+        margin-top: 6px;
+    }
+    .slbtn1 {
+        margin-left: 47px;
+        top: 29% !important;
+        z-index: 6  ;
+    }
+
+    .main-10 img {
+        height: 35%;
+    }
+
+    footer {
+        top: 9rem;
+        font-size: 6px;
+        height: 1rem;
+    }
+
+    .rmv-logo {
+        margin: 0 0px;
+    }
+
+   
+
+
+
+}
+
+@media screen and (max-width:538px) {
+
+    .navbar-brand img {
+        height: 20px;
+        width: 30px;
+    }
+
+
+.fimg {
+    top: -20% !important;
+}
+
+    .navbar-brand h5 {
+        font-size: 10px;
+        margin-bottom: 1px;
+    }
+
+    .headcont h1 {
+        font-size: 14px;
+    }
+
+    .sl1 {
+        width: 100% !important;
+        filter: brightness(0.7);
+        height: 15rem;
+    }
+
+    .tlbg{
+            height: 15rem;
+    }
+
+    .headcont p {
+        font-size: 6px;
+    }
+
+    .headcont h4 {
+        font-size:10px;
+    }
+
+    .headcont {
+        top: 7rem;
+        left: 10%;
+    }
+
+    .headcont h1 {
+        letter-spacing: 4px;
+        margin-bottom: 3px !important;
+    }
+
+    .slbtn1 {
+        margin-left: 47px;
+        top: 27% !important;
+    }
+    
+    .c2{
+            width: 25% !important;
+            right: -26%  !important;
+            top: 3rem;
+    }
+
+    .c2 i{
+        font-size: 10px !important;
+
+    }
+
+    .navbar {
+        position: absolute;
+        top: -25px;
+      }
+
+      .navbar-brand span {
+        font-size: 4px;
+        letter-spacing: normal;
+    }
+
+    .bluediv img {
+        height: 60px;
+        top: 13px;
+    }
+
+    .main-3 {
+        height: 19rem;
+    }
+
+    .lampimg {
+        top: -10px;
+        height: 5rem;
+    }
+
+    .main-4cont img {
+        width: 50%;
+        height: 15rem;
+    }
+
+    .main-4 {
+        height: 50rem;
+    }
+
+    .wtsf {
+        position: relative;
+        top: -143px;
+        width: 20rem;
+    }
+
+    .wtsf img {
+        width: 54%;
+        height: 8rem;
+    }
+
+    .wtsf {
+        position: relative;
+        top: -160px;
+        width: 22rem;
+    }
+
+    .main-6 {
+        top: -100px;
+    }
+
+    .linedv {
+        top: 24.4%;
+        border: 0.5px solid white;
+    }
+
+    .main-7 {
+        top: 1rem;
+    }
+
+    .main-8 {
+        top: 2rem;
+    }
+
+    .main-9sl {
+        top: 3rem;
+    }
+
+    .main-10 {
+        top: 0rem;
+    }
+
+    .main-10 img {
+        bottom: -22%;
+    }
+
+    .main-11 {
+        top: 3rem;
+    }
+
+    footer {
+        top: 3rem;
+    }
+    .c2 {
+        right: -25% !important;
+    }
+
+    .c2 {
+        right: -16%;
+        justify-content: center;
+    }
+
+    .main-5 h1{
+        font-size: 16px;
+}
+
+.main-5 p{
+    font-size: 10px;
+}
+}
+
+@media screen and (max-width:351px){
+    .c2 {
+        /* right: -18% !important; */
+        margin-right: 10px;
+        padding: 0;
+        right: 0;
+    }
+
+  
+
+    .imgdv img {
+        height: 3.5rem;
+        width: 3.5rem;
+        margin-top: 8px 5px;
+    }
+
+    .linedv {
+        height: 3.3rem;
+        width: 3.3rem;
+    }
+
+}
+
+@media screen and (max-width:310px){
+    
+   
+}
+
+}
